@@ -1,4 +1,4 @@
-package com.ferdinan.berlajar.web;
+package com.ferdinan.belajar.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

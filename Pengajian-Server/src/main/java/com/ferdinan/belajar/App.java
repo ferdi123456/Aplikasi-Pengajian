@@ -1,4 +1,4 @@
-package com.ferdinan.berlajar;
+package com.ferdinan.belajar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
